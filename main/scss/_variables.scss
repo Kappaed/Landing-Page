@@ -1,0 +1,21 @@
+//fonts
+$main-font: "Public Sans";
+$light-weight: 300;
+$regular-weight: 400;
+$bold-weight: 700;
+$default-font-size: 18px;
+
+//colours - vibrant
+$dark-blue: hsl(233, 26%, 24%);
+$bright-green: hsl(136, 65%, 51%);
+$cyan: hsl(192, 70%, 51%);
+
+//colors - neutral
+$gray-blue: hsl(233, 8%, 62%);
+$light-gray-blue: hsl(220, 16%, 96%);
+$very-light-gray: hsl(0, 0%, 98%);
+$white: hsl(0, 0%, 100%);
+
+//miscellaneous
+$padding-background: linear-gradient(to right, $bright-green, $cyan);
+$button-radius: 30px;
